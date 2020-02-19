@@ -1,5 +1,5 @@
 # kung-fu-master
-スパルタンXの強化学習です。課題で作りました。  
+スパルタンXの強化学習です。  
 環境はwindows10,python3.7.6,pytorch1.4  
 メソッドはdouble Q_lerningを使用してます。  
 １面クリア寸前くらいです。  
