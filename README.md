@@ -1,4 +1,5 @@
 # kung-fu-master
+樫木太郎と申します。
 スパルタンXの強化学習です。  
 環境はwindows10,python3.7.6,pytorch1.4  
 メソッドはdouble Q_lerningを使用してます。  
